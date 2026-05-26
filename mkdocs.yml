@@ -11,6 +11,7 @@ theme:
   
 nav:
   - Home :
-  - Overview : index.md
-  - Theoretical basis: theory.md
+    - Overview : index.md
+    - Theoretical basis: theory.md
+  
   
